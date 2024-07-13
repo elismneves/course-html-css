@@ -1,0 +1,23 @@
+#introdução {
+    color: yellow;
+}
+
+.codigo {
+    color: rgb(33, 109, 23);
+}
+
+.peaches {
+    color: rosybrown;
+}
+
+.roxo {
+    color: purple;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.grande {
+    font-size: 32px;
+}
